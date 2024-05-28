@@ -17,6 +17,3 @@ Website Hackathon memiliki latar belakang sebagai wadah untuk penyelenggaraan lo
 2. Buka project yang di clone dengan Visual Studio Code
 
 
-## Demo
-Untuk melihat demo aplikasi silahkan klik link berikut:
-[link]
